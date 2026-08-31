@@ -1,0 +1,47 @@
+{
+  "personajes_default": [
+    "Luna la gatita curiosa",
+    "Toby el perrito valiente",
+    "Sofía la niña soñadora",
+    "Max el ratón travieso",
+    "El abuelo Tomás",
+    "Nina la hada del bosque",
+    "Simón el pez dorado",
+    "Leo el león dormilón",
+    "Valentina la mariposa azul",
+    "El señor Búho sabio"
+  ],
+  "objetos_default": [
+    "una linterna mágica",
+    "un sombrero que habla",
+    "una llave dorada",
+    "un libro encantado",
+    "una pelota saltarina",
+    "un reloj que viaja en el tiempo",
+    "una cometa de colores",
+    "una caja misteriosa",
+    "una varita brillante",
+    "un mapa del tesoro"
+  ],
+  "lugares_default": [
+    "el bosque encantado",
+    "la casa del árbol",
+    "el lago de los deseos",
+    "la colina de los sueños",
+    "el jardín de las flores parlantes",
+    "la playa dorada",
+    "el castillo de cristal",
+    "la cueva de los susurros",
+    "el pueblo arcoíris",
+    "la montaña de las estrellas"
+  ],
+  "idioma_default": "es",
+  "max_personajes": 3,
+  "max_objetos": 3,
+  "max_lugares": 3,
+  "puerto": "/dev/ttyACM0",
+  "baudios": 115200,
+  "timeout": 1,
+  "intentos_login": 5,
+  "system_audios_folder": "system_audios"
+}

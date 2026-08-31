@@ -1,0 +1,10 @@
+Arduino/TaleTable/.pio
+Arduino/TaleTable/.vscode/.browse.c_cpp.db*
+Arduino/TaleTable/.vscode/c_cpp_properties.json
+Arduino/TaleTable/.vscode/launch.json
+Arduino/TaleTable/.vscode/ipch
+__pycache__
+*.db
+venv
+*.mp3
+Tales/*

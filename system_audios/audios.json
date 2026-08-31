@@ -1,0 +1,38 @@
+{
+    "1": {
+        "personajes": "Por favor, introduce una ficha de personaje. Si ya no quieres introducir más, pon la ficha de continuar.",
+        "objetos": "Por favor, introduce una ficha de objeto. Si ya no quieres introducir más, pon la ficha de continuar.",
+        "lugares": "Por favor, introduce una ficha de lugar. Si ya no quieres introducir más, pon la ficha de continuar.",
+        "idioma": "Por favor, introduce una ficha de idioma. Si prefieres no elegir ninguno, pon la ficha de continuar."
+    },
+    "2": "Esa ficha ya la habías registrado. ¡Prueba a poner una diferente!",
+    "3": "¡Esa no es tu ficha! ¡Asegúrate de poner la tuya si quieres formar parte del cuento!",
+    "4": "¡Qué guay! ¡Parece que quieres ser el protagonista del cuento! ¡Me encanta la idea!",
+    "5": "¡Ya eres parte del cuento! Continúa añadiendo compañeros de aventuras, o pon la ficha de continuar.",
+    "6": "¡Perfecto! Continuamos con la aventura, estoy impaciente.",
+    "7": {
+        "personajes": "La ficha que has puesto no es de un personaje. Asegúrate de poner una ficha de personaje o la ficha de continuar.",
+        "objetos": "La ficha que has puesto no es de un objeto. Asegúrate de poner una ficha de objeto o la ficha de continuar.",
+        "lugares": "La ficha que has puesto no es de un lugar. Asegúrate de poner una ficha de lugar o la ficha de continuar.",
+        "idioma": "La ficha que has puesto no es de un idioma. Asegúrate de poner una ficha de idioma o la ficha de continuar."
+    },
+    "8": "Por favor, introduce tu ficha de usuario para que pueda saber quién eres.",
+    "9": "Esta ficha no es de un usuario. Asegúrate de poner tu ficha y vuelve a intentarlo.",
+    "10": "¡Encantado de conocerte! Crearemos aventuras increíbles juntos. Me esforzaré al máximo para que tus historias sean lo más divertidas posibles.",
+    "11": "¡Hola de nuevo! ¡Qué alegría verte por aquí! ¡Vamos a crear una nueva aventura increíble!",
+    "12": "Vaya, ha habido un pequeño error al cargar tu usuario. Por favor, inténtalo de nuevo.",
+    "13": "Si quieres escuchar uno de tus cuentos de forma aleatoria, pon la ficha de aleatorio. Si prefieres crear uno nuevo, pon la ficha de continuar.",
+    "14": "Esa ficha no es válida. Por favor, inténtalo de nuevo.",
+    "15": "Esa ficha no es la de aleatorio ni la de continuar. Por favor, inténtalo de nuevo.",
+    "16": "¡Vaya! Parece que todavía no tienes ningún cuento para elegir. ¡Anímate a crear uno nuevo!",
+    "17": "¡Tu cuento ya está listo! ¡Prepárate para escucharlo!",
+    "18": "¡Qué aventura tan divertida! Espero que te haya gustado. ¡Hasta la próxima!",
+    "19": "He añadido el elemento al cuento correctamente",
+    "20": "Voy a crear tu cuento, ¡será una aventura increíble!",
+    "bienvenida": "¡Bienvenido a TaleTable, donde los cuentos cobran vida!",
+    "inicio": "¡Soy Taly, el narrador de TaleTable, y hoy vamos a crear una aventura juntos! Para comenzar necesito que introduzcas tu ficha. ¿Comenzamos?",
+    "solicitar_tutorial": "¿Quieres que te explique cómo funciona TaleTable? Si es así pon la ficha de tutorial, si no, pon la ficha de continuar.",
+    "tutorial": "TaleTable es una plataforma donde puedes crear tus propias aventuras personalizadas. Te iré pidiendo que pongas fichas de personajes, objetos y lugares para tu cuento. Si en algún momento ya no quieres poner más fichas, pon la ficha de continuar y yo me encargaré del resto. También puedes escuchar un cuento que ya hayamos creado si pones la ficha de aleatorio cuando te la pida.",
+    "error_crear_recuperar_cuento": "Hubo un error al generar tu cuento. Por favor, inténtalo de nuevo.",
+    "ficha_desconocida_tutorial": "Esa ficha no es la de tutorial ni la de continuar. Por favor, inténtalo de nuevo."
+}

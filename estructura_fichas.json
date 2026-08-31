@@ -1,0 +1,10 @@
+{"nombre": "nombre_usuario", "f_nacimiento": "DD-MM-AAAA"}
+
+{"personaje": "nombre_personaje"}
+{"objeto": "nombre_objeto"}
+{"lugar": "nombre_lugar"}
+{"idioma": "idioma_seleccionado"}
+
+{"comando": "continuar"}
+{"comando": "aleatorio"}
+{"comando": "tutorial"}
